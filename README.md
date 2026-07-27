@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @avicennamumtaza
 - 👀 I’m interested in understanding hello world
 - 🌱 I’m currently learning about how to feel the code, not only deeply but also consistently
-- 💞️ I’m looking to collaborate on any Django, Express Js, React Js, or Laravel projects
+- 💞️ I’m looking to collaborate on any Django, Vue, or Flutter projects
 - 📫 You can reach me directly by dm at my Instagram - @avicenna.env
 
 <!---
